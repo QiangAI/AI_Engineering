@@ -1,6 +1,8 @@
 http://git.gaokeyun.cn/
 
 git config --global user.name "QiangAI"
+git config --global user.name "38395870@qq.com"
+
 git push https://github.com/QiangAI/AI_Engineering.git
 
 http://git.gaokeyun.cn/

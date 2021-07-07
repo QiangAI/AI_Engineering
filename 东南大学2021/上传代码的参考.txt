@@ -1,0 +1,53 @@
+1. 安装git工具
+2. 测试git工具
+
+3. 访问http://git.gaokeyun.cn
+4. 注册账号
+5. 登录账号
+6. 创建一个仓库
+------------------------
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin http://git.gaokeyun.cn/yangqiang/homework_1.git
+git push -u origin master
+-----------------------
+
+7. 创建并切换到工作目录
+8. 创建本地仓库：git init
+9. 建议服务器在本地的代理名：
+git remote add  origin http://git.gaokeyun.cn/yangqiang/homework_1.git
+
+10. 进入开发环境
+	写代码
+	拷贝文件
+
+11. 添加新增文件到本地仓库
+	git add *
+12. 添加注释
+	git commit -m  "注释信息"
+
+13. 上传代码到服务器
+	git push -u origin master
+
+------------
+    git branch
+14. 建一个分支
+	git branch  yangqiang
+15. 切换分支
+	git checkout yangqiang 
+
+16. 工作产生文件
+	----
+17. 添加到本地仓库
+	git add *
+18. 添加注释
+	git commit -m  "。。。。。"
+
+19. 推送
+	git push  -u  origin  分支
+
+http://git.gaokeyun.cn/yangqiang/seu2021_doc.git
+
+
+
